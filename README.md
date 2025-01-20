@@ -1,1 +1,1 @@
-# DevOpsCoreToolsLearning
+# DevOps Core Tools Practice
